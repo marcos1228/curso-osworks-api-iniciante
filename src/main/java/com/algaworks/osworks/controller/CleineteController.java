@@ -17,7 +17,7 @@ public class CleineteController {
 		cliente1.setId(1L);
 		cliente1.setNome("Marcos Barbosa Evangelista");
 		cliente1.setEmail("marcos_pp.16@hotmail.com");
-		cliente1.setTelefone("91993964439");
+		cliente1.setTelefone("91993964439");//
 
 		Cliente cliente2 = new Cliente();
 		cliente2.setId(2L);
